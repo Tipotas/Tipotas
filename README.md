@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tipotas
 - 👀 I’m interested in Discord Bot Developing with python , and game developing
 - 🌱 I’m currently learning FiveM Developing(.lua)
-- 📫 You can reach me on https://twitter.com/tipotasssss
+- 📫 You can reach me on https://twitter.com/tipotastheog
 
 <!---
 Tipotas/Tipotas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
